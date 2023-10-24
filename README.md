@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um projeto criado para um curso que fiz na Rocketseat, ele é basicamente um site onde possui links para meu perfil no Github, Linkedin, instagram e meu email.
 
-- [Acesse meu projeto finalizado, online](https://https://thaisbrt.github.io/Projeto-Pessoal/)
+- [Acesse meu projeto finalizado, online](https://thaisbrt.github.io/Projeto-Pessoal/)
 
 
 ## :memo: Licença
