@@ -7,7 +7,6 @@ Projeto Devlinks
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -34,12 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um projeto criado para um curso que fiz na Rocketseat, ele é basicamente um site onde possui links para meu perfil no Github, Linkedin, instagram e meu email.
 
-- [Acesse meu projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse meu projeto finalizado, online](https://https://thaisbrt.github.io/Projeto-Pessoal/)
 
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
