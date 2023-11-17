@@ -38,6 +38,7 @@ body * {
   color: var(--text-color);
 }
 
+/*expansividade*/
 #container {
   width: 100%;
   max-width: 588px;
@@ -183,7 +184,7 @@ footer {
   } 
 }
 
-/*animacao */
+/*animacao botão*/
 @keyframes slide-in{
   from{
     left: 0;
